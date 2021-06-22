@@ -11,6 +11,7 @@ namespace communication_log
 			Console.WriteLine("You are in restricted air space!");
 			string YourMom = ("restricted air space!");
 			Console.WriteLine("Very clever.");
+            Console.WriteLine("Okay i'll stay out of " + YourMom );
 		}
 	}
 }
