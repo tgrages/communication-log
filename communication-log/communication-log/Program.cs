@@ -15,7 +15,7 @@ namespace communication_log
             Console.WriteLine("Okay i'll stay out of " + YourMom );
 			int divertNewCoordinates = 360;
 			Console.WriteLine($"Please divert plane to {divertNewCoordinates} degrees");
-            Console.WriteLine("test to see if i can push still");
+
 		}
 	}
 }
