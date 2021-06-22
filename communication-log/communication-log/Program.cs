@@ -6,6 +6,7 @@ namespace communication_log
 	{
 		static void Main(string[] args)
 		{
+			Console.BackgroundColor = ConsoleColor.DarkRed;
 			Console.WriteLine("Hello pilot");
             Console.WriteLine("Sup");
 			Console.WriteLine("You are in restricted air space!");
