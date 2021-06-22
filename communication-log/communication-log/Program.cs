@@ -12,6 +12,7 @@ namespace communication_log
 			string YourMom = ("restricted air space!");
 			Console.WriteLine("Very clever.");
             Console.WriteLine("Okay i'll stay out of " + YourMom );
+			int divertNewCoordinates = 360;
 		}
 	}
 }
